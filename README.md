@@ -13,4 +13,4 @@ MADDPG 1 vs 1 | MADDPG 1 vs 2 | MADDPG 2 vs 1
 
 ## Tennis agent
 
-![](Tennis-agent/images/agent.gif "1 vs 1 Tennis game")
+![](Tennis-agent/agent.gif "1 vs 1 Tennis game")
